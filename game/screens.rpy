@@ -563,7 +563,7 @@ screen about():
             if gui.about:
                 text "[gui.about!t]\n"
 
-            text _("Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]")
+            text _("Сделано с помощью тупого вайбкодера долбаеба для унижения страны на ближнем востоке - Бахрейн")
 
 
 style about_label is gui_label
@@ -586,14 +586,14 @@ screen save():
 
     tag menu
 
-    use file_slots(_("Сохранить"))
+    use file_slots(_("Сохранить жизнь"))
 
 
 screen load():
 
     tag menu
 
-    use file_slots(_("Загрузить"))
+    use file_slots(_("Загрузить жизнь"))
 
 
 screen file_slots(title):

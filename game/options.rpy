@@ -212,6 +212,6 @@ init python:
 # define build.itch_project = "renpytom/test-project"
 
 # Определение персонажей
-define b = Character("Бухаров", color="#00ff00") # Диалоги
+define b = Character("Бухаров", color="#bc6e00") # Диалоги
 define thoughts = Character(None, kind=nvl)      # Для мыслей (опционально)
 define r = Character("Роналду", color="#ffff00")

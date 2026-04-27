@@ -215,3 +215,4 @@ init python:
 define b = Character("Бухаров", color="#00ff00") # Диалоги
 define thoughts = Character(None, kind=nvl)      # Для мыслей (опционально)
 define r = Character("Роналду", color="#ffff00")
+define m = Character("Мама", color="#ff0080")

@@ -9,7 +9,7 @@ label start:
     b "О НЕТ ОНИ МЕНЯ НАШЛИ!"
     play sound "audio/effects/vistreli.mp3" fadeout 1.0 
     scene bg prathica with fade
-    "Еле ноги унёс!"
+    b "Еле ноги унёс!"
     play sound "audio/effects/vzdoh.mp3"
     "Не стоило мне воровать тот сникерс"
     "Нужно возвращаться домой"
@@ -31,5 +31,5 @@ label start:
     "По итогу я уснул, но не надолго"
     m "Димочка, просыпайся, в колледж пора!"
     "Я очнувшись протираю глаза"
-    
+
     return
